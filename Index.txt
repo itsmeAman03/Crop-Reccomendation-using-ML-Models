@@ -1,0 +1,19 @@
+1. Absrtarct
+2. Introduction
+3. Related Work
+4. Methodology
+        4.1 DataSet Understanting
+        4.2 Data-Preprocessing
+        4.3 Data spiliting
+        4.5 KNN Classifier for Crop prediction
+        4.5 Classification using Support Vector Classifer (SVC)
+                4.5.1 SVC parameter tuning
+        4.6 Classification Using decision Tree
+                4.6.1 Important feature for decision Tree
+                4.6.2 Classification report for Decision Tree Prediction of Crop
+        4.7 Classification using Random Forest
+                4.7.1 Class Error Precition for Random Forest Classifier
+        4.8 Classification using Extreme Gradient Boost (XGBoost)
+        4.9 Classification using Gradient Boost
+5. Result
+5 Refrences
